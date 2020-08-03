@@ -1,5 +1,3 @@
-class ApplicationSystemTestCase < ActionDispatch::SystemTestCase
-# test/application_system_test_case.rb
 require "test_helper"
 
 class ApplicationSystemTestCase < ActionDispatch::SystemTestCase
